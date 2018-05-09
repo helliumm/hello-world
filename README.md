@@ -1,4 +1,4 @@
 # hello-world
 Short initial test repository
 
-Hello, this is my first trial with GH.
+Hello, this is my first trial with GH, for learning.
